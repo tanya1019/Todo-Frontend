@@ -1,0 +1,27 @@
+.taskcontainer{
+    background-color: #fff1;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 5px 5px 10px #0007;
+    border-radius: 10px;
+    padding:10px;
+    margin-right: 20px;
+    min-width: 250px;
+    /* backdrop-filter: blur(50px); */
+    padding-inline: 20px;
+    width:25vw;
+    
+    /* align-items: center; */
+}
+.button{
+    background-color: #fff5;
+    border:0px;
+    padding:8px;
+    padding-inline: 15px;
+    border-radius: 10px;
+    color:#fff;
+    /* max-width: 100px; */
+    align-self: center;
+
+}
